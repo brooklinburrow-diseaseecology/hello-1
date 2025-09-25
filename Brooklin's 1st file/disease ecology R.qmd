@@ -25,9 +25,9 @@ This image of the EpiTriad shows how three things affect the overall prevalence,
 	
 	2. Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
 	a. 95% confidence in detecting a disease at 1% prevalence in a large population
-		around 290/300
+		299
 	b.99% confidence in detecting a disease at 2% prevalence in a large population 
-		around 225/230 
+		229
 Both are close to the same number because even though the confidence level goes up, less animals are needed for sampling. You are looking for a higher prevalence rate, so it is easier to detect.
 
 3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is	
