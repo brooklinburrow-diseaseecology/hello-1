@@ -32,3 +32,26 @@ Both are close to the same number because even though the confidence level goes 
 
 3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is	
 >1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
+-------------------------------------------------------------------------------------------------------
+a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
+(9 points)   
+	6/12-  0.0980 cases per elk day
+					work- 56-5= 51 new cases-5      5/51=0.098
+	6/14- 0.043478 cases per elk day 
+					work-56-10=46  new cases- 2     2/46=0.0434
+	6/15-  0 cases per elk day 
+					work-56-12=44   new cases- 0     2/44=0.0
+
+b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit
+for prevalence. (5 points)
+	6/13- 21.429% prevalence of disease symptoms 
+				work- 12/56
+	6/16- 8.929% prevalence of disease symptoms 
+				work- 5/56
+	
+
+c) On which day is the prevalence same as the incidence (except the units)? (3 points)
+		on 6/10- prevalence=1.79% incidence=0.179 cases per elk day, because no preexisting cases 																				before this day
+
+d) On which day is the incidence lowest? (3 points)
+		On 6/15 and 6/16, there are no new cases, and therefore, the incidence is 0 on both days
