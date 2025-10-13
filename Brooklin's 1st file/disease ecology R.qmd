@@ -55,3 +55,7 @@ c) On which day is the prevalence same as the incidence (except the units)? (3 p
 
 d) On which day is the incidence lowest? (3 points)
 		On 6/15 and 6/16, there are no new cases, and therefore, the incidence is 0 on both days
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Ticks are essential to study and understand due to the various diseases they carry and can transmit to humans. Ticks can latch onto reservoir hosts that are carrying the disease and then transmit it to other hosts, which can be fatal or severe for these hosts. It is essential to investigate how the spread of tick-borne diseases is evolving.
