@@ -63,7 +63,8 @@ Ticks are essential to study and understand due to the various diseases they car
 
 1. 
 a. False, microparasites do have shorter lives, but they DO reproduce within the host 
-d. TRUE
+d. TRUE,
+	The severity of mortality and disease has many determining factors, such as susceptibility, environment, and pathogen characteristics. Therefore, it is not always the case that we see the exact same outbreak characteristics each time; however, it does cause high mortality in white-tailed deer.
 f. False, HPS is environmentally transmitted by the human inhaling the aerosolized droppings of an infected rodent 
 
 4. 
