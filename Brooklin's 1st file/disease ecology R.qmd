@@ -59,3 +59,17 @@ d) On which day is the incidence lowest? (3 points)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 Ticks are essential to study and understand due to the various diseases they carry and can transmit to humans. Ticks can latch onto reservoir hosts that are carrying the disease and then transmit it to other hosts, which can be fatal or severe for these hosts. It is essential to investigate how the spread of tick-borne diseases is evolving.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1. 
+a. False, microparasites do have shorter lives, but they DO reproduce within the host 
+d. TRUE
+f. False, HPS is environmentally transmitted by the human inhaling the aerosolized droppings of an infected rodent 
+
+4. 
+c. Calculate beta for measles and Rotavirus
+	measles 15/8- 1.875    Rotavirus= 17/14days - 1.21
+d. calculate Reff for measles with 80% vax 
+			R0(1-0.8)
+			1.875(0.2)- 0.375
+	
