@@ -73,4 +73,10 @@ c. Calculate beta for measles and Rotavirus
 d. calculate Reff for measles with 80% vax 
 			R0(1-0.8)
 			1.875(0.2)- 0.375
+----------------------------------------------------------------------------------------------------------------------------
+1. False, MERS-CoV is mostly found in camels and only in human populations with direct physical contact. 
+2. TRUE
+3. False, some human-human transmission can occur, and while it is not the main transmission, it is not a dead-end because sometimes the illness does transmit to other humans with contact
+4. False, the paragraph states 35% of the cases have died, which would be the case fatality rate. 
+5. False, this curve shows more of a propagated curve and how the disease is transmitted from human to human. 
 	
