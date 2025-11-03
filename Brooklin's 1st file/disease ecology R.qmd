@@ -79,4 +79,22 @@ d. calculate Reff for measles with 80% vax
 3. False, some human-human transmission can occur, and while it is not the main transmission, it is not a dead-end because sometimes the illness does transmit to other humans with contact
 4. False, the paragraph states 35% of the cases have died, which would be the case fatality rate. 
 5. False, this curve shows more of a propagated curve and how the disease is transmitted from human to human. 
+--------------------------------------------------------------------------------------------------------------------------------
+The first person to become infected in the current Marburg virus outbreak in Rwanda
+probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit
+bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of
+Marburg virus infection were documented, and most of the people infected were health
+care workers, mainly those who worked in intensive care units.
+	1. Using the community epidemiology framework developed by Fenton and Pedersen,
+	would you classify this Marburg virus outbreak as a spillover event or an emerging
+	infectious disease? Justify your classification. 5 points
+Spillover because the main reservoir is bats not humans. Most of the cases were probably infected becuase they work in the ICU.
+At the start, it was a normal disease in bats that accidentally spilled over to humans, which is, by definition, spillover. 
+
+	2. What measures could be implemented to reduce the risk of transmission in both
+	community and healthcare settings? 5 points
+Given that the disease is contagious, especially in the healthcare setting, hospitals can isolate patients and require staff to wear protective gear when working with them and to take extra precautions when an individual has the disease or is dealing with someone who has it. Community-wise, staying away from caves known to have bats, or even wearing protective gear, could help prevent further spillover events. 
+
+Recommended reading: Marburg Virus Disease in Rwanda – Centering Both Evidence
+and Equity by Cameron T. Nutt (Canvas > Files > Readings)
 	
