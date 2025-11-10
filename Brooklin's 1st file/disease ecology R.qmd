@@ -97,4 +97,10 @@ Given that the disease is contagious, especially in the healthcare setting, hosp
 
 Recommended reading: Marburg Virus Disease in Rwanda – Centering Both Evidence
 and Equity by Cameron T. Nutt (Canvas > Files > Readings)
-	
+----------------------------------------------------------------------------------------------------------------------------------
+Pond 1
+prevalence- 0.300     lower-0.140     upper=0.525 	
+
+pond 2
+prev- 0.067     lower=0.003    upper=0.302
+
