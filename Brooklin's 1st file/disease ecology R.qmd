@@ -131,7 +131,7 @@ transmission. What pathogen characteristics support one of these transmission ro
 Finally, provide an example of a wild bird disease caused by ARV and briefly describe
 its impact on the affected population.
 
--There is both vertical and horizontal transmission, the fecal-oral route, and the route through egg transmission. Poor litter hygiene, overcrowding, and inadequate ventilation can contribute to the spread of this virus. If the environment a litter is staying in is unsanitary and germs fester, the virus can survive for weeks and continue to spread. If the feed is contaminated, the whole litter can easily get infected. Humidity and temperature are also factors that help the virus persist and continue to spread. The pathogen is highly resistant and can survive for weeks waiting to be transmitted to other hosts or spread to other flocks. The ARV causes Avian Influenza and is fatal in some cases. This is also important because, in some instances, it can transmit to humans, and some even think it will be the next outbreak humans face. 
+-There is both vertical and horizontal transmission, the fecal-oral route, and the route through egg transmission. Poor litter hygiene, overcrowding, and inadequate ventilation can contribute to the spread of this virus. If the environment a litter is staying in is unsanitary and germs fester, the virus can survive for weeks and continue to spread. If the feed is contaminated, the whole litter can easily get infected. Humidity and temperature are also factors that help the virus persist and continue to spread. The pathogen is highly resistant and can survive for weeks waiting to be transmitted to other hosts or spread to other flocks. The ARV causes Avian Influenza in birds and is fatal in some cases. This is also important because, in some instances, it can transmit to humans, and some even think it will be the next outbreak humans face. 
 
 
 Langya henipavirus
@@ -139,6 +139,8 @@ Langya henipavirus (LayV) is an emerging zoonotic virus first identified in Chin
 Describe the likely reservoir and transmission route of Langya virus. Why is LayV
 classified as a spillover and not a potential EID? 
 
--
+-The most common reservoir is shrews, which spread the virus through invading crops and to humans, most likely through indirect or direct contact with infected animals. Many farmers and rural workers show the highest spillover events due to working in the areas infected by these shrews. 
+
+-There is no human-to-human transmission. It is just repeated spillover events to an individual multiple times. Each human infection is independent. Humans are accidental dead-end hosts. 
 
 
