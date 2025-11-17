@@ -116,11 +116,11 @@ in places like Malaysia and Bangladesh. Describe how the modes of transmission d
 between these two regions and explain how these differences influence the preventive
 measures recommended in each setting. 
 
--In Malaysia, the fatality rate is lower, and bridge hosts are shown to transmit the virus. The bat that has the disease transfers it to a pig when the pig eats infected food sources, and then the pig transfers it to humans. Monitoring these pig species that serve as bridge hosts could help determine when the virus spreads and whether people should avoid pigs at certain times. Avoiding fruit that looks like it has been eaten by a pig oe bridge host an also help the spread. 
+-In Malaysia, the fatality rate is lower, and bridge hosts are shown to transmit the virus. The bat that has the disease passes it to a pig when the pig eats infected food, and then the pig passes it to humans. Monitoring these pig species that serve as bridge hosts could help determine when the virus spreads and whether people should avoid pigs at certain times. Avoiding fruit that looks like a pig or a bridge host has eaten it also helps contain the spread. 
 
--In Bangladesh the transmission is seen seasonly. The bats get into the honey being harvested and defecate or urinate, which transmits the virus into the honey, and when humans consume it, they get the virus. Preventative measures here can look like, and have looked like, lids being added to the honey pots so the bee cannot get into the honey and spread the disease. 
+-In Bangladesh, the transmission is seen seasonally. The bats get into the honey being harvested and defecate or urinate, which contaminates the honey with the virus, and when humans consume it, they get the virus. Preventative measures here can look like, and have looked like, lids being added to the honey pots so the bee cannot get into the honey and spread the disease. 
 
--In India, the pathway is from the bats to the humans and from human to human transmission. Human-to-human transmission can be prevented through measures such as those we saw during COVID: people can wear masks, social distance, and take proper sanitary measures. Screening of humans can be helpful when trying to contain the spread and quarantine infected individuals. 
+-In India, the pathway is from the bats to the humans and from human to human transmission. Human-to-human transmission can be prevented through measures such as those we saw during COVID: people can wear masks, social distance, and take proper sanitary measures. Human screening can be helpful in containing the spread and quarantining infected individuals. 
 
 -In the Philippines, the pathway is from the bats to the humans. Decreasing the interactions between bats and humans and wearing protective equipment when humans must interact with bats are preventive measures being taken. Protecting the habitats of these bats would help decrease many routes of transmission, but it is one way that could help this specific path. 
 
@@ -131,12 +131,14 @@ transmission. What pathogen characteristics support one of these transmission ro
 Finally, provide an example of a wild bird disease caused by ARV and briefly describe
 its impact on the affected population.
 
--There is both vertical and horizontal transmission, the fecal-oral route, and the route through egg transmission. Poor litter hygiene, overcrowding, and inadequate ventilation can contribute to the spread of this virus. If the environment a litter is staying in is unsanitary and germs fester, the virus can survive for weeks and continue to spread. If the feed is contaminated, the whole litter can easily get infected. Humidity and temperature are also factors that help the virus persist and continue to spread. The pathogen is highly resistent and can survive for weeks waiting to be transmitted to other hosts or spread to other flocks. Avian Influenza is caused by the ARV and is fatal in some cases. This is also important because in some cases it transmits to humnans, and some even think it will be the next outbreak that humans go through. 
+-There is both vertical and horizontal transmission, the fecal-oral route, and the route through egg transmission. Poor litter hygiene, overcrowding, and inadequate ventilation can contribute to the spread of this virus. If the environment a litter is staying in is unsanitary and germs fester, the virus can survive for weeks and continue to spread. If the feed is contaminated, the whole litter can easily get infected. Humidity and temperature are also factors that help the virus persist and continue to spread. The pathogen is highly resistant and can survive for weeks waiting to be transmitted to other hosts or spread to other flocks. The ARV causes Avian Influenza and is fatal in some cases. This is also important because, in some instances, it can transmit to humans, and some even think it will be the next outbreak humans face. 
 
 
 Langya henipavirus
 Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.
 Describe the likely reservoir and transmission route of Langya virus. Why is LayV
 classified as a spillover and not a potential EID? 
+
+-
 
 
