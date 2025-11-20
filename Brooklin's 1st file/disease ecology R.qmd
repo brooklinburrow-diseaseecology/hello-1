@@ -143,4 +143,99 @@ classified as a spillover and not a potential EID?
 
 -There is no human-to-human transmission. It is just repeated spillover events to an individual multiple times. Each human infection is independent. Humans are accidental dead-end hosts. 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
+Females have almost double the prevalence of these roundworms that males have. Raccoons may show different patterns by gender, which could account for the differences in these numbers. North regions show a 28.6% prevalence, south regions show a 62.8% prevalence, and central regions show a 64.3% prevalence. These numbers are telling due to environments playing a large role in pathogens and their virulence, so the northern numbers being much lower than the southern or central regions could indicate an environmental issue. In cold environments, roundworms could have lower survival rates, while they thrive in warmer climates, which would account for these numbers. Young people show 20% lower prevalence than older adults, and this may be due to exposure to certain factors, differences in immunology, or other factors that young people do not experience compared to adults. 
+
+
+Quantitative Parasitology on the web (powered by R)   
+   by Jeno Reiczigel and Lajos Rozsa
+   web programming by Andras Reiczigel and Ibolya Fabian
+
+Version 1.0.15  (6 December 2020)
+
+For more details see www2.univet.hu/qpweb/qp10/QPweb_notes.html
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 01:17:14 2025 
+
+     Descriptive statistics
+                                  N  Infected  Prev.%   Mean int.  Median int.
+wild.-.Sheet1$num_B              106    50      47.2       9.44         3.0 
+wild.-.Sheet1$male                68    25      36.8       5.24         2.0 
+wild.-.Sheet1$Female              37    24      64.9      13.96         3.5 
+wild.-.Sheet1$north               49    14      28.6       3.50         2.0 
+wild.-.Sheet1$south               43    27      62.8      10.44         2.0 
+wild.-.Sheet1$central             14     9      64.3      12.22         4.0 
+wild.-.Sheet1$age ya              37    14      37.8      10.07         3.0 
+wild.-.Sheet1$age A               69    36      52.2      21.11         3.0 
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 01:19:22 2025 
+
+     Exact confidence interval for sex ratio (Blaker's method, new algorithm)
+
+  Data: Males  :  wild.-.Sheet1$male
+        Females:  wild.-.Sheet1$Female 
+
+     Confidence level = 95%
+
+         N   Males   Prop.of males    Lower CL  Upper CL
+       399     64            0.160       0.127     0.200 
+
+For reference: 
+ Klaschka J, Reiczigel J (2020) Computational Statistics, 
+ https://doi.org/10.1007/s00180-020-00986-0 
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 01:29:01 2025 
+
+     Descriptive statistics
+                                  N  Infected  Prev.%   Mean int.  Median int.
+wild.-.Sheet1$male                68    25      36.8       5.24         2.0 
+wild.-.Sheet1$Female              37    24      64.9      13.96         3.5 
+wild.-.Sheet1$north               49    14      28.6       3.50         2.0 
+wild.-.Sheet1$south               43    27      62.8      10.44         2.0 
+wild.-.Sheet1$central             14     9      64.3      12.22         4.0 
+wild.-.Sheet1$age ya              37    14      37.8      10.07         3.0 
+wild.-.Sheet1$age A               69    36      52.2      21.11         3.0 
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 01:29:01 2025 
+
+      Graph (Barplot) 
+
+***** Too many data series selected, just the first 3 of them will be used.
+
+      qpgraph001  created, use "Show graphs" to display it.
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 01:29:02 2025 
+
+      Graph (Boxplot) 
+
+      qpgraph002  created, use "Show graphs" to display it.
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 01:29:02 2025 
+
+     Parasite species richness (estimated by the Chao2 method) 
+
+        Dataset: wild.-.Sheet1 
+        Parasite species observed in the sample:
+            male - found in 25 hosts 
+            Female - found in 24 hosts 
+            north - found in 14 hosts 
+            south - found in 27 hosts 
+            central - found in 9 hosts 
+            age ya - found in 14 hosts 
+            age A - found in 36 hosts 
+
+        Number of hosts examined:                  106 
+        Total number of parasite species found:      7 
+        Of these
+         - number of those found in a single host:   0 
+         - number of those found in two hosts:       0 
+
+***** There are no rare species in the sample, thus standard error of the 
+      estimate vanishes. No confidence interval can be constructed.
