@@ -145,7 +145,74 @@ classified as a spillover and not a potential EID?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Females have almost double the prevalence of these roundworms that males have. Raccoons may show different patterns by gender, which could account for the differences in these numbers. North regions show a 28.6% prevalence, south regions show a 62.8% prevalence, and central regions show a 64.3% prevalence. These numbers are telling due to environments playing a large role in pathogens and their virulence, so the northern numbers being much lower than the southern or central regions could indicate an environmental issue. In cold environments, roundworms could have lower survival rates, while they thrive in warmer climates, which would account for these numbers. Young people show 20% lower prevalence than older adults, and this may be due to exposure to certain factors, differences in immunology, or other factors that young people do not experience compared to adults. 
+Females have almost double the prevalence of these roundworms that males have. Raccoons may show different patterns by gender, which could account for the differences in these numbers. North regions show a 28.6% prevalence, south regions show a 62.8% prevalence, and central regions show a 64.3% prevalence. These numbers are telling due to environments playing a large role in pathogens and their virulence, so the northern numbers being much lower than the southern or central regions could indicate an environmental issue. In cold environments, roundworms could have lower survival rates, while they thrive in warmer climates, which would account for these numbers. Young people show 20% lower prevalence than older adults, and this may be due to exposure to certain factors, differences in immunology, or other factors that young people do not experience compared to adults. Central region males versus central region females was also a shocking difference. Males in this region had a prevalence of 44.4% while the females had a prevalence of 100%. Females seem to have almost a sure chance of getting this disease, or at least a much higher rate than males do. Southern regions also demonstrated these rates, with males having 59.1% and females having 100% prevalence ratings. In contrast, northern regions had a male prevalence of 22.7%, lower than that in southern and central regions, and only 38.1% prevalence in females; while the females still have a higher percentage, it is not drastic, and further backs up the theory of how the environment influences how the pathogen works. In all regions, however, females still experience a higher prevalence, and in southern and central regions, it is drastic, which could correlate with factors such as birthing patterns, hibernations, interactions with adolescents, or any other behavioral and biological influences that separate females from males. 
+
+
+  Descriptive statistics
+                                  N  Infected  Prev.%   Mean int.  Median int.
+wild.-.Sheet1.(1)$male            68    25      36.8       5.24         2.0 
+wild.-.Sheet1.(1)$Female          37    24      64.9      13.96         3.5 
+wild.-.Sheet1.(1)$north           49    14      28.6       3.50         2.0 
+wild.-.Sheet1.(1)$south           43    27      62.8      10.44         2.0 
+wild.-.Sheet1.(1)$central         14     9      64.3      12.22         4.0 
+wild.-.Sheet1.(1)$age ya          37    14      37.8      10.07         3.0 
+wild.-.Sheet1.(1)$age A           69    36      52.2      21.11         3.0 
+wild.-.Sheet1.(1)$North M         22     5      22.7       4.00         2.0 
+wild.-.Sheet1.(1)$South M         22    13      59.1       6.23         2.0 
+wild.-.Sheet1.(1)$Central M        9     4      44.4       9.00         3.5 
+wild.-.Sheet1.(1)$north F         21     8      38.1       4.75         2.5 
+wild.-.Sheet1.(1)$south F         11    11     100.0      17.45         4.0 
+wild.-.Sheet1.(1)$Central F        5     5     100.0      14.80         4.0 
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 02:23:13 2025 
+
+      Graph (Barplot) 
+
+***** Too many data series selected, just the first 3 of them will be used.
+
+      qpgraph003  created, use "Show graphs" to display it.
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 02:23:13 2025 
+
+      Graph (Boxplot) 
+
+***** Too many data series selected, just the first 8 of them will be used.
+
+      qpgraph004  created, use "Show graphs" to display it.
+______________________________________________________________________________
+
+  QPweb                 Thu Nov 20 02:23:13 2025 
+
+     Parasite species richness (estimated by the Chao2 method) 
+
+        Dataset: wild.-.Sheet1.(1) 
+        Parasite species observed in the sample:
+            male - found in 25 hosts 
+            Female - found in 24 hosts 
+            north - found in 14 hosts 
+            south - found in 27 hosts 
+            central - found in 9 hosts 
+            age ya - found in 14 hosts 
+            age A - found in 36 hosts 
+            North M - found in 5 hosts 
+            South M - found in 13 hosts 
+            Central M - found in 4 hosts 
+            north F - found in 8 hosts 
+            south F - found in 11 hosts 
+            Central F - found in 5 hosts 
+
+        Number of hosts examined:                  106 
+        Total number of parasite species found:     13 
+        Of these
+         - number of those found in a single host:   0 
+         - number of those found in two hosts:       0 
+
+***** There are no rare species in the sample, thus standard error of the 
+      estimate vanishes. No confidence interval can be constructed.
+
+
 
 
 Quantitative Parasitology on the web (powered by R)   
