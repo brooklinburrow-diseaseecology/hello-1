@@ -181,20 +181,35 @@ coenophiala) that produces ergot alkaloids associated with fescue toxicosis in
 grazing livestock.
 	a. What advantage does Tall fescue gain from being infected with a fungal
        endophyte? 
-		-The grass can grow in conditions where it could not previously grow without the fungal endophyte. It allows the grass to thrive by producing alkaloids that make it more tolerant of its environment, including drought, insects, and poor soil. This allows the grass species to dominate other species around it and persist in many environments. The grass is durable, drought resistant, easy to establish, regrows quicly, and good for grazing by big herds. This makes the grass tolerant to weather changes
+		-The grass can grow in conditions where it could not previously grow without the fungal endophyte. It allows the grass to thrive by producing alkaloids that make it more tolerant of its environment, including drought, insects, and poor soil. This allows the grass species to dominate other species around it and persist in many environments. The grass is durable, drought-resistant, easy to establish, regrows quickly, and is suitable for grazing by big herds. This makes the grass tolerant to weather changes
 
 	b. What environmental and ecological factors drive the occurrence and severity of
        Fescue toxicosis in grazing systems? 
-		-The climate and environment affects the virulence of this toxicosis; temperature and drought stress increase alkoid production. Soil fertility and microbial commuinities affect endophyte expression. Grazing mangment affects toxin accumulation and risk of disease. Climate, soil nutrients, and grazing influence toxin levels. soil fertility and mositure level can also increase levels of the toxin, especially if the conditions make it easier for the grass to overdominate the pasture. Soil microbiome shows strong corelation with the severity of the toxicosis. 
+		-The climate and environment affect the virulence of this toxicosis; temperature and drought stress increase alkoid production. Soil fertility and microbial communities affect endophyte expression. Grazing management affects toxin accumulation and disease risk—climate, soil nutrients, and grazing management influence toxin levels. Soil fertility and moisture levels can also increase the toxin levels, especially if conditions make it easier for the grass to overdominate the pasture. The soil microbiome shows a strong correlation with the severity of toxicosis. 
 
 	c. What are the key clinical signs of fescue toxicity in cattle? 
-		-Cattle looks malnourished and experience weight loss, rough and discolored hair coats along with poor performance. Temperature also            presents as higher while the core temperture is lowered, metabolism is affected portraying in weight loss. Cows present as eating less becasue the metabolism is affected and not functioning as normal. lipid and carbohydrate metabolism is lowered and this will affect eating patterns. Immune function is also affected and cows are at higher risk of contracting illnesses which could be fatal.
+		-Cattle looks malnourished and experience weight loss, rough and discolored hair coats along with poor performance. As the temperature rises, the core temperature decreases, and metabolism is affected, resulting in weight loss. Cows present as eating less because their metabolism is affected and not functioning normally. Lipid and carbohydrate metabolism are reduced, which will affect eating patterns. Immune function is also affected, and cows are at higher risk of contracting illnesses that could be fatal.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 worksheet 10
 
+1. What are the different routes of transmission for African Swine fever? What role do
+humans play in the spread and transmission of ASF? 
 
+-African Swine fever can be transmitted through vectors, (tick bites), these ticks persist for long periods of time making ASF very hard to eradicate. through direct contact of an infected pig through blood, salive, or feces, through indirect contact, contaminated sources such as feed, trucks transporting feed or pigs, or on equipemnt or clothing, through environemntal persistence by surviving for months on carcasses and various pork products, and through humans acting as mechanical vectors. Pork products are transported to many locations very far apart and allows the virus to have a wide range. There is also an illegal trade of pork products that can be very dangerous for humans handling or consuming the products and easily trabsfers it to other pig populations. Many farms also do not detect the disease until it is too late and it spreads to other pigs or farms. Many farmers also have financial struggles and testing for this disease is overlooked. 
+
+2. Describe how co-infection with Koala retrovirus (KoRV) affects the severity,
+progression, and management of Chlamydia in koalas. 
+
+-The virus brings down the immunity of koalas and can make chlamydia more svere when contractedd by a koala. 
+
+3. Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging
+threat to wild snake populations in North America.
+What are the key challenges associated with the surveillance and management of
+Snake Fungal Disease 
+
+-
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
