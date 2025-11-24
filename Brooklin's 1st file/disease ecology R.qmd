@@ -161,7 +161,8 @@ It is interesting to notice that the north is the outlier in multiple points of 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Worksheet 9
+WORKSHEET 9
+
 1. In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection.
 
 Humans can exacerbate the conditions that allow diseases to thrive and multiply. Humans disturb the ecosystems where birds live. Removing habitats from birds can lead to denser bird populations, where Salmonella can spread quickly and easily. Infected birds' droplets are the main way Salmonella spreads, so putting these birds in an environment where contamination is likely much higher, due to less space to spread out, will lead to the disease spreading at a higher rate. Adequate education has been publicized, and CDC and health officials are trying to educate the public on basic practices such as proper hygiene, not moving items from the coop to other locations, and improving the transfer of germs from the coop to inside the home, especially by kids. Urbanization as a whole increases interactions and contamination between animals and humans, leading to more infections. 
@@ -180,35 +181,35 @@ coenophiala) that produces ergot alkaloids associated with fescue toxicosis in
 grazing livestock.
 	a. What advantage does Tall fescue gain from being infected with a fungal
        endophyte? 
-		-The grass can grow in conditions where it could not previously grow without the fungal endophyte. It allows the grass to thrive by producing alkaloids that make it more tolerant of its environment, including drought, insects, and poor soil. This allows the grass species to dominate other species around it and persist in many environments. The grass is durable, drought-resistant, easy to establish, regrows quickly, and is suitable for grazing by big herds. This makes the grass tolerant to weather changes
+		-The grass can grow in conditions where it could not previously grow without the fungal endophyte. It allows the grass to thrive by              producing alkaloids that make it more tolerant of its environment, including drought, insects, and poor soil. This allows the grass             species to dominate other species around it and persist in many environments. The grass is durable, drought-resistant, easy to                  establish, regrows quickly, and is suitable for grazing by big herds. This makes the grass tolerant to weather changes
 
 	b. What environmental and ecological factors drive the occurrence and severity of
        Fescue toxicosis in grazing systems? 
-		-The climate and environment affect the virulence of this toxicosis; temperature and drought stress increase alkoid production. Soil fertility and microbial communities affect endophyte expression. Grazing management affects toxin accumulation and disease risk—climate, soil nutrients, and grazing management influence toxin levels. Soil fertility and moisture levels can also increase the toxin levels, especially if conditions make it easier for the grass to overdominate the pasture. Soil makeup can also feed toxic alkaloids, depending on whether the soil is rich in nitrogen or other components the alkaloids feed on. The soil microbiome shows a strong correlation with the severity of toxicosis. The alkoids impair cattle's ability to regulate their temperature, and warmer conditions exacerbate this, while alkoid concentrations are higher in the grass in warmer environments. 
+		-The climate and environment affect the virulence of this toxicosis; temperature and drought stress increase alkoid production. Soil            fertility and microbial communities affect endophyte expression. Grazing management affects toxin accumulation and disease risk—                climate, soil nutrients, and grazing management influence toxin levels. Soil fertility and moisture levels can also increase the toxin          levels, especially if conditions make it easier for the grass to overdominate the pasture. Soil makeup can also feed toxic alkaloids,           depending on whether the soil is rich in nitrogen or other components the alkaloids feed on. The soil microbiome shows a strong                 correlation with the severity of toxicosis. The alkoids impair cattle's ability to regulate their temperature, and warmer conditions            exacerbate this, while alkoid concentrations are higher in the grass in warmer environments. 
 
 	c. What are the key clinical signs of fescue toxicity in cattle? 
-		-Cattle looks malnourished and experience weight loss, rough and discolored hair coats along with poor performance. As the temperature rises, the core temperature decreases, and metabolism is affected, resulting in weight loss. Cows present as eating less because their metabolism is affected and not functioning normally. Lipid and carbohydrate metabolism are reduced, which will affect eating patterns. Immune function is also affected, and cows are at higher risk of contracting illnesses that could be fatal.
+		-Cattle look malnourished and experience weight loss, rough and discolored hair coats, along with poor performance. As the temperature          rises, the core temperature decreases, and metabolism is affected, resulting in weight loss. Cows present as eating less because their          metabolism is affected and not functioning normally. Lipid and carbohydrate metabolism are reduced, which will affect eating patterns.          Immune function is also affected, and cows are at higher risk of contracting illnesses that could be fatal.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-worksheet 10
+WORKSHEET 10
 
 1. What are the different routes of transmission for African Swine fever? What role do
 humans play in the spread and transmission of ASF? 
 
--African Swine fever can be transmitted through vectors (tick bites); these ticks persist for long periods of time, making ASF very hard to eradicate. Through direct contact with an infected pig through blood, saliva, or feces, through indirect contact, contaminated sources such as feed, trucks transporting feed or pigs, or on equipment or clothing, through environmental persistence by surviving for months on carcasses and various pork products, and through humans acting as mechanical vectors. Pork products are transported to many locations far apart, allowing the virus to spread widely. There is also an illegal trade of pork products that can be very dangerous for humans handling or consuming the products, and easily transfers it to other pig populations. Many farms also do not detect the disease until it is too late, and it spreads to other pigs or farms. Many farmers also have financial struggles, and testing for this disease is overlooked. 
+-African Swine fever can be transmitted through vectors (tick bites); these ticks persist for long periods of time, making ASF very hard to eradicate. Through direct contact with an infected pig through blood, saliva, or feces, through indirect contact, contaminated sources such as feed, trucks transporting feed or pigs, or on equipment or clothing, through environmental persistence by surviving for months on carcasses and various pork products, and through humans acting as mechanical vectors. Pork products are transported to many locations far apart, allowing the virus to spread widely. There is also an illegal trade of pork products that can be very dangerous for humans handling or consuming the products, and easily transfers to other pig populations. Many farms also do not detect the disease until it is too late, and it spreads to other pigs or farms. Many farmers also have financial struggles, and testing for this disease is overlooked. Humans play a role by transferring infected meat, like in the illegal pork trade. Humans also serve as vectors, transmitting the infection from farm to farm through clothing, vehicles, or equipment. Humans do not themselves become infected, but they serve as bridge hosts for multiple animal populations. 
 
 2. Describe how co-infection with Koala retrovirus (KoRV) affects the severity,
 progression, and management of Chlamydia in koalas. 
 
--The virus brings down the immunity of koalas and can make chlamydia more severe when contracted by a koala. 
+-KoRV infection causes immunity suppression and is correlated with a higher prevalence of chlamydia infections. The virus brings down the immunity of koalas and can make chlamydia more severe when contracted by a koala. When koalas contract KoRV, symptoms are worse with chlamydia, and the bacterial load is greater. It causes greater overall disease severity and prevalence because koalas are more susceptible when they are also infected with KoRV. The body is not able to fight off the disease because of immunosuppression, which allows chlamydia to have rapid progression. This makes it harder to treat due to the wild population and immunosuppression caused by KoRV. This also leads to lower fertility rates and reduced reproduction, affecting the overall population and the environment around them. 
 
 3. Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging
 threat to wild snake populations in North America.
 What are the key challenges associated with the surveillance and management of
 Snake Fungal Disease 
 
--
+-SFD is usually asymptomatic within the first month or two, so it spreads before it can be diagnosed. Fungal spores are also very persistent and can persist in moist soil for long periods, potentially infecting multiple snakes. Snakes are often less closely monitored than other species, and diseases can go undetected and spread more easily across species. There is also not much research on this species or the disease in particular. Many of the tests yield false negatives and are not very reliable, so it is a tough disease to contain and treat actual positive snakes. 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
