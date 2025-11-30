@@ -15,9 +15,7 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 ![](EpiTriad.png)
 The Epidemiologic Triad illustrates how the interactions among the host, pathogen, and environment shape disease outcomes. Disease emergence, prevalence, and transmission depend on these three components aligning in ways that support pathogen survival and spread. Changes in any one of these factors can alter disease dynamics.
-
-----------------------------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------------------------------------------
 WORKSHEET 2
 
 1. Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer @95% CONFIDENCE
@@ -28,10 +26,8 @@ WORKSHEET 2
 	b.99% confidence in detecting a disease at 2% prevalence in a large population: 229
 	Both are close to the same number because, even as the confidence level increases, fewer animals are needed for sampling. You are looking for a higher prevalence rate, which makes it easier to detect.
 
-3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility iS >1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
-
--------------------------------------------------------------------------------------------------------
-
+3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is>1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
+-------------------------------------------------------------------------------------------------------------------------------------
 WORKSHEET 3
 
 a) Incidence rates
@@ -49,116 +45,122 @@ c)	Day when prevalence = incidence (numerically):
 	6/10 (no preexisting cases) (both 0.179)
 
 d) Lowest incidence:
-	6/15 and 6/16 (both = 0)
-
+6/15 and 6/16 (both = 0)
 ---------------------------------------------------------------------------------------------------------------------------------------
 TICK LAB 
 
-Ticks are essential to study and understand due to the various diseases they carry and can transmit to humans. Ticks can latch onto reservoir hosts that are carrying the disease and then transmit it to other hosts, which can be fatal or severe for these hosts. It is essential to investigate how the spread of tick-borne diseases is evolving.
+Ticks are essential to study and understand due to the various diseases they carry and can transmit to humans. Ticks can latch onto reservoir hosts that carry the disease and then transmit it to other hosts, which can be fatal or severe. It is essential to investigate how the spread of tick-borne diseases is evolving.
 ----------------------------------------------------------------------------------------------------------------------------------------
 TEST CORRECTIONS
 
 1. 
-a. False, microparasites do have shorter lives, but they DO reproduce within the host 
-d. TRUE,
-	The severity of mortality and disease has many determining factors, such as susceptibility, environment, and pathogen characteristics. Therefore, it is not always the case that we see the exact same outbreak characteristics each time; however, it does cause high mortality in white-tailed deer.
-f. False, HPS is environmentally transmitted by the human inhaling the aerosolized droppings of an infected rodent 
-
-4. 
-c. Calculate beta for measles and Rotavirus
-	measles 15/8- 1.875    Rotavirus= 17/14days - 1.21
-d. calculate Reff for measles with 80% vax 
-			R0(1-0.8)
-			1.875(0.2)- 0.375
+	a. False — microparasites do reproduce within the host.
+	d. True — disease severity varies depending on host susceptibility, pathogen characteristics, and environmental context.
+	f. False — Hantavirus Pulmonary Syndrome (HPS) is transmitted through inhalation of aerosolized rodent droppings.
+4.
+	c. Calculate β:
+		Measles: 15/8 = 1.875
+		Rotavirus: 17/14 = 1.21
+	d. Effective reproductive number (Rₑ) for measles with 80% vaccination:
+		Rₑ = R₀(1 − 0.8) = 1.875 × 0.2 = 0.375
 ----------------------------------------------------------------------------------------------------------------------------
 WORKSHEET 4
 
-1. False, MERS-CoV is mostly found in camels and only in human populations with direct physical contact. 
+1. False — MERS-CoV is primarily associated with camels and requires close human–camel contact. 
 2. TRUE
-3. False, some human-human transmission can occur, and while it is not the main transmission, it is not a dead-end because sometimes the illness does transmit to other humans with contact
-4. False, the paragraph states 35% of the cases have died, which would be the case fatality rate. 
-5. False, this curve shows more of a propagated curve and how the disease is transmitted from human to human. 
+3. False -  while rare, limited human-to-human transmission can occur.
+4. False — 35% represents the case fatality rate.
+5. False — the curve shown represents propagated transmission, not a point 
 --------------------------------------------------------------------------------------------------------------------------------
-
 WORKSHEET 5
 
-The first person to become infected in the current Marburg virus outbreak in Rwanda
-probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit
-bats that are known to be a reservoir of the Marburg virus. As of 19 December 2024, 66 cases of
-Marburg virus infection was documented, and most of the people infected were healthy
-care workers, mainly those who worked in intensive care units.
+The first person to become infected in the current Marburg virus outbreak in Rwanda likely contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known to harbor the Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were healthcare workers, mainly those who worked in intensive care units.
 
-1. Using the community epidemiology framework developed by Fenton and Pedersen,
-would you classify this Marburg virus outbreak as a spillover event or an emerging
-infectious disease? Justify your classification. 5 points
-	-Spillover because the main reservoir is bats, not humans. Most of the cases were probably infected because they work in the ICU.
-	At the start, it was a normal disease in bats that accidentally spilled over to humans, which is, by definition, spillover. 
+1. Spillover vs. EID classification
+	This Marburg virus outbreak is best classified as a spillover event. The reservoir is the Egyptian rousette bat, and initial human cases likely resulted from exposure in a bat-inhabited cave. Most subsequent infections occurred among healthcare workers caring for infected patients. Because the virus originates in wildlife and jumps into humans rather than circulating persistently within the human population, it meets the definition of spillover.
 
-2. What measures could be implemented to reduce the risk of transmission in both
-community and healthcare settings? 5 points
-	-Given that the disease is contagious, especially in the healthcare setting, hospitals can isolate patients and require staff to wear 			protective gear when working with them and to take extra precautions when an individual has the disease or is dealing with someone who has 		it. Community-wise, staying away from caves known to have bats, or even wearing protective gear, could help prevent further spillover 			events. 
+2. Measures to reduce transmission
+	Healthcare settings: patient isolation, PPE use, strict hygiene and sanitation protocols, screening, and quarantining exposed workers.
+	Community settings: avoiding bat-inhabited caves, improving public awareness, reducing wildlife contact, and maintaining strong surveillance.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 WORKSHEET 6
 
-Pond 1: prevalence- 0.300 (lower-0.140, upper=0.525) 	
-
-pond 2: prevalence- 0.067 (lower=0.003, upper=0.302)
-
-comparison: p-value= 0.1987
-p-value is greater than 0.05, so the difference is not statistically significant.
+Pond 1 prevalence: 0.300 (CI: 0.140–0.525)
+Pond 2 prevalence: 0.067 (CI: 0.003–0.302)
+Comparison: p = 0.1987 (not statistically significant)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 WORKSHEET 7
 
 Nipah Virus
-Nipah virus ecology varies across regions, resulting in distinct patterns of transmission
-in places like Malaysia and Bangladesh. Describe how the modes of transmission differ
-between these two regions and explain how these differences influence the preventive
-measures recommended in each setting. 
-
--In Malaysia, the fatality rate is lower, and bridge hosts are shown to transmit the virus. The bat that has the disease passes it to a pig when the pig eats infected food, and then the pig passes it to humans. Monitoring these pig species that serve as bridge hosts could help determine when the virus spreads and whether people should avoid pigs at certain times. Avoiding fruit that looks like a pig or a bridge host has eaten it also helps contain the spread. 
-
--In Bangladesh, the transmission is seen seasonally. The bats get into the honey being harvested and defecate or urinate, which contaminates the honey with the virus, and when humans consume it, they get the virus. Preventative measures here can look like, and have looked like, lids being added to the honey pots so the bee cannot get into the honey and spread the disease. 
-
--In India, the pathway is from the bats to the humans and from human to human transmission. Human-to-human transmission can be prevented through measures such as those we saw during COVID: people can wear masks, social distance, and take proper sanitary measures. Human screening can be helpful in containing the spread and quarantining infected individuals. 
-
--In the Philippines, the pathway is from the bats to the humans. Decreasing the interactions between bats and humans and wearing protective equipment when humans must interact with bats are preventive measures being taken. Protecting the habitats of these bats would help decrease many routes of transmission, but it is one way that could help this specific path. 
+Nipah virus ecology varies by region, influencing how the virus spreads and how prevention is targeted.
+	-Malaysia: Transmission occurs primarily from bats → pigs → humans. Pigs act as bridge hosts. Prevention focuses on monitoring pig populations, controlling pig–bat interactions, and preventing contact with contaminated fruit.
+	-Bangladesh: Transmission is seasonal and tied to contamination of raw date palm sap by bats. Prevention emphasizes sap protection (e.g., sap pot covers), hygiene, and community education.
+	-India: Transmission occurs from bats → humans and between humans. Prevention includes mask use, distancing, sanitation, and early case detection.
+	-Philippines: Bat → human transmission is primary. Prevention involves reducing human–bat interactions and using protective equipment when exposure is unavoidable.
 
 Avian Reovirus
-Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the
-different transmission routes of ARV and explain which environmental factors favor its
-transmission. What pathogen characteristics support one of these transmission routes?
-Finally, provide an example of a wild bird disease caused by ARV and briefly describe
-its impact on the affected population.
-
--There is both vertical and horizontal transmission, the fecal-oral route, and the route through egg transmission. Poor litter hygiene, overcrowding, and inadequate ventilation can contribute to the spread of this virus. If the environment a litter is staying in is unsanitary and germs fester, the virus can survive for weeks and continue to spread. If the feed is contaminated, the whole litter can easily get infected. Humidity and temperature are also factors that help the virus persist and continue to spread. The pathogen is highly resistant and can survive for weeks waiting to be transmitted to other hosts or spread to other flocks. The ARV causes Avian Influenza in birds and is fatal in some cases. This is also important because, in some instances, it can transmit to humans, and some even think it will be the next outbreak humans face. 
-
+	ARV can be transmitted:
+		Vertically: from hen to egg
+		Horizontally: fecal–oral route, contaminated litter, equipment, or feed
+	Environmental factors such as poor ventilation, humidity, contaminated litter, and overcrowding increase environmental persistence and transmission.
+	Pathogen characteristics that support transmission include environmental resistance and the ability to survive for weeks in contaminated settings.
+	Example disease: Avian reoviruses cause viral arthritis/tenosynovitis in birds, reducing mobility, growth, and survival. Avian reoviruses (ARV) can be transmitted through multiple routes.
 
 Langya henipavirus
-Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.
-Describe the likely reservoir and transmission route of Langya virus. Why is LayV
-classified as a spillover and not a potential EID? 
-
--The most common reservoir is shrews, which spread the virus through invading crops and to humans, most likely through indirect or direct contact with infected animals. Many farmers and rural workers show the highest spillover events due to working in the areas infected by these shrews. 
-
--There is no human-to-human transmission. It is just repeated spillover events to an individual multiple times. Each human infection is independent. Humans are accidental dead-end hosts. 
+	Likely reservoir: shrews
+	Transmission route: spillover from infected shrews to humans through direct or indirect contact.
+LayV is a spillover event, not an emerging infectious disease, because it does not transmit between humans. Each infection represents an independent spillover, and humans serve as dead-end hosts.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 WORKSHEET 8
 
-Overall, the prevalence of roundworms across all raccoon populations in this data was 47.2% (37.4-57.1); this is the prevalence of at least one worm per raccoon, so almost half of the population has been infected at some level. Females have nearly double the prevalence of these roundworms than males do. Raccoons may show different behavioral and lifestyle patterns by gender, which could account for the differences in these numbers. North regions show a 28.6% prevalence (0.171-0.425, 95% CI), south regions show a 62.8% prevalence (0.466 – 0.764, 95% CI), and central regions show a 64.3% prevalence (34.6- 0.0868, 95% CI) of roundworms. Prevalence differs strongly among regions. When looking for a statistically significant difference between regions, the p-value is 0.00178. This p-value is less than 0.05, indicating a significant difference in the prevalence of roundworms across regions. Central vs South regions do not show a statistically significant difference, but when compared to northern populations, there is a statistically significant difference. These numbers are telling, given that environments play an important role in pathogen virulence and prevalence, so the northern numbers being much lower than those in the southern or central regions could indicate an environmental issue. In cold environments, roundworms could have lower survival rates, while they thrive in warmer climates, which would account for these numbers. Further, this suggests that raccoons exhibit different behavioral or habitat traits that account for differences between regions. Looking further into the data, central numbers could be affected by the small sample size, which could also coincide with the large confidence interval. 
+Overall prevalence: 47.2% (CI: 37.4–57.1). Nearly half the sampled raccoons carried at least one roundworm.
+Regional patterns:
+	North: 28.6% (0.171–0.425)
+	South: 62.8% (0.466–0.764)
+	Central: 64.3% (0.346–0.868)
+Differences among regions were statistically significant (p = 0.00178). Warmer climates likely support higher parasite survival, contributing to higher prevalence in southern and central areas. Given that environments play an important role in pathogen virulence and prevalence, the lower numbers in the northern regions compared to the south or central regions could indicate an environmental issue. Further, this suggests that raccoons exhibit different behavioral or habitat traits that account for differences between regions. Looking further into the data, central numbers could be affected by the small sample size, which could also coincide with the large confidence interval.
+ Females have nearly double the prevalence of these roundworms than males do. Raccoons may show different behavioral and lifestyle patterns by gender, which could account for the differences in these numbers.    
 
-Young raccoons show 28% prevalence (0.169-0.422), while older adults show a higher prevalence of 64.3% (0.509-0.763), and this may be due to exposure to certain factors, differences in immunology, or other factors that young raccoons do not experience compared to adults. However, the p-value was 0.228, no statistical difference between ages, which could be accounted for when adjusting for different regions and sexes. Adults are likely to have a higher prevalence because they have had more time to be exposed to the worms. Overall, region and sex differences account for the greater differences in the prevalence of roundworms between groups, more so than age. 
+Age patterns
+	Young: 28% (0.169–0.422)
+	Adults: 64.3% (0.509–0.763)
+Although adults show higher prevalence, age differences were not statistically significant (p = 0.228). Region and sex appear to be stronger drivers.
 
-In Northern regions, young show a 29.2% prevalence (0.149-0.492) and adults show a 28% prevalence (0.143-0.476). There is no evidence of an age impact regarding prevalence here. In southern regions, the prevalence in young populations is 50% (0.254-0.746) and the adult prevalence is 67.7% (0.501-0.814). This evidence shows a higher prevalence and a significant difference between the adult and young raccoon populations. In the central region, the prevalence in young raccoons is 100% (0.207-1.00), but this could be affected by the sample size of 1, which explains the substantial range in the confidence interval. Prevalence in the central region adults is 61.5% (0.355-0.823). While the prevalence of young raccoons is obviously higher, the confidence intervals suggest that adult prevalence would likely be higher with a larger sample for this region. 
+Sex patterns
+	Males: 38% (0.272–0.496)
+	Females: 65% (0.498–0.780)
+Sex differences were statistically significant (p = 0.0136). Female raccoons consistently had higher prevalence, potentially due to behavioral or physiological factors.
 
-Overall, when looking at males vs females, the males have a 38% prevalence (0.272-0.496) and females have a 65% prevalence (0.498 – 0.780).
-When comparing sex differences, the p-value was 0.0136, suggesting a statistically significant difference in the prevalence of roundworms between sexes. Sex has a considerable effect on the prevalence of roundworms in raccoon populations. Females have also been shown to have a higher average worm count than males. This could suggest that females are a preferred host for the worms to multiply, possibly because of their biology or differences in behavioral and feeding patterns. 
+Regional × sex interactions
+Clear patterns emerged:
+	-Southern and central females showed extremely high prevalence (approaching 100%), with smaller sample sizes influencing CI width.
+	-Northern populations showed lower and more similar prevalence across sexes, reinforcing environmental influences.
+	CENTRAL 
+		Male prevalence: 44.4% (0.137- 0.788)
+		Female: 100% (0.478 -0.100)
+	SOUTH
+		Male: 50.0% (0.319 - 0.681)
+		Female: 100% (0.715 - 0.100)
+	NORTH
+		Male: 21.4% (0.083 - 0.409)
+		Female: 38.1% (0.181 - 0.616)
 
-Central region males versus central region females was also a shocking difference. Males in this region had a prevalence of 44.4% (13.7%-78.8%), while the females had a prevalence of 100% (47.8%-100%). Females seem to have almost a sure chance of getting infected, or at least a much higher rate than males do. Southern regions also demonstrated these rates, with males having a 50.0% prevalence (31.9%-68.1%) and females having a 100% prevalence (71.5%-100%). Noting that the confidence interval is much narrower in the southern regions than in the central regions could be due to the smaller sample size in the central regions. In contrast, northern regions had a male prevalence of 21.4% (8.3%-40.9%), lower than that in southern and central regions, and only 38.1% prevalence (18.1%-61.6%) in females; while the females still have a higher percentage, it is not drastic, and further backs up the theory of how the environment influences how the pathogen works. In all regions, however, females still experience a higher prevalence, and in southern and central regions this is particularly pronounced, which could correlate with factors such as birthing patterns, hibernation, interactions with adolescents, or other behavioral and biological influences that separate females from males. 
+Regional x age interactions
+	CENTRAL
+		Young: 100% (0.207-1.00), (sample size of 1) 
+		Adults: 61.5% (0.355-0.823)
+	SOUTH
+		Young: 50% (0.254-0.746) 
+		Adult prevalence: 67.7% (0.501-0.814)
+	NORTH:
+		Young: 29.2% (0.149 - 0.492)
+		Adults: 28% (0.143 - 0.476)
 
-It is interesting to notice that the north is the outlier in multiple points of this data set. When comparing adults to young, the prevalence is almost identical, in contrast to warmer regions. Also, females have a slightly higher prevalence, but it is not statistically significant. It would be interesting to research further whether females exhibit different behavioral or eating patterns in these climates that could account for the higher prevalence, or whether it is simply due to environmental factors affecting the pathogen and overall rates. The central and southern regions show a 100% prevalence for females, with some room for adjustment in the confidence intervals, but almost double the percentages for the male prevalence. In contrast, the northern females are not too much higher in prevalence than the males, suggesting the environmental factors are more impactful than sex or age. This could suggest that further research into eradicating roundworm infections could be focused on warmer climates and what exactly is causing higher prevalence in warmer areas. The same could be said for females, researching differences between males and females and looking into which differences could be the cause for higher prevalence and how. Education could be focused on individuals in warmer climates who are at higher risk of infection to limit spillover and further spread. Humans could also pose a risk for spreading these parasites in warmer climates because of increased activity and exposure opportunities. Since females show a greater prevalence in each region, their populations could be focused on more to test and treat, but this is a struggle due to the populations being wild and not domesticated.
+Interpretation
+Regional climate and environmental conditions appear to be the primary drivers of roundworm prevalence. Sex-based differences were also substantial. These findings point to targeted management in warmer regions and to further research into sex-based susceptibility. North is the outlier with much lower prevalence, so further research into eradicating roundworm infections could focus on warmer climates and on what exactly is causing higher prevalence in those areas. The same could be said for females, researching differences between males and females and looking into which differences could be the cause for higher prevalence and how. Education could be focused on individuals in warmer climates who are at higher risk of infection to limit spillover and further spread. Humans could also pose a risk of spreading these parasites in warmer climates due to increased activity and greater exposure opportunities. Since female infections are more prevalent in each region, their populations could be targeted more for testing and treatment, but this is a challenge because the populations are wild rather than domesticated.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
