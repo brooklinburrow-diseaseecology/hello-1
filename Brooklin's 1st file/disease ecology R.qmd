@@ -20,42 +20,36 @@ The Epidemiologic Triad illustrates how the interactions among the host, pathoge
 
 WORKSHEET 2
 
-	1. Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer @95% CONFIDENCE
+1. Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer @95% CONFIDENCE
 			59
 
-	2. Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+2. Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
 	a. 95% confidence in detecting a disease at 1% prevalence in a large population: 299
 	b.99% confidence in detecting a disease at 2% prevalence in a large population: 229
 	Both are close to the same number because, even as the confidence level increases, fewer animals are needed for sampling. You are looking for a higher prevalence rate, which makes it easier to detect.
 
-	3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility iS >1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
+3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility iS >1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
 
 -------------------------------------------------------------------------------------------------------
 
 WORKSHEET 3
 
-a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
-(9 points)   
-	6/12-  0.0980 cases per elk day
-					work- 56-5= 51 new cases-5      5/51=0.098
-	6/14- 0.043478 cases per elk day 
-					work-56-10=46  new cases- 2     2/46=0.0434
-	6/15-  0 cases per elk day 
-					work-56-12=44   new cases- 0     2/44=0.0
+a) Incidence rates
+	Units: cases per elk-day
+	6/12: 0.0980      (5/51)
+	6/14: 0.04348	  (2/46)
+	6/15: 0.0
 
-b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit
-for prevalence. (5 points)
-	6/13- 21.429% prevalence of disease symptoms 
-				work- 12/56
-	6/16- 8.929% prevalence of disease symptoms 
-				work- 5/56
-	
+b) Prevalence
+	Units: proportion of elk with disease symptoms
+	6/13: 21.429% (12/56)
+	6/16: 8.929% (5/56)
 
-c) On which day is the prevalence same as the incidence (except the units)? (3 points)
-		on 6/10- prevalence=1.79% incidence=0.179 cases per elk day, because no preexisting cases 																				before this day
+c)	Day when prevalence = incidence (numerically):
+	6/10 (no preexisting cases) (both 0.179)
 
-d) On which day is the incidence lowest? (3 points)
-		On 6/15 and 6/16, there are no new cases, and therefore, the incidence is 0 on both days
+d) Lowest incidence:
+	6/15 and 6/16 (both = 0)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 TICK LAB 
