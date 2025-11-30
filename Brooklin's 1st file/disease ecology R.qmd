@@ -4,6 +4,7 @@ author: "Brooklin Burrow"
 format: html
 editor: visual
 ---
+WORKSHEET 1 
 
 ```{r}
 # Function to calculate the area of a circle 
@@ -18,21 +19,27 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 ![](EpiTriad.png)
 This image of the EpiTriad shows how three things affect the overall prevalence, transmission, and livelihood of diseases. The environment, host, and pathogen must all come together in a way for a disease to thrive. With certain conditions on each level, the disease can change. 
+
 ----------------------------------------------------------------------------------------------------
-  	
+
+WORKSHEET 2
+
 	1. Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%
-			59
-	
+			-59
 	2. Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
 	a. 95% confidence in detecting a disease at 1% prevalence in a large population
-		299
+			-299
 	b.99% confidence in detecting a disease at 2% prevalence in a large population 
-		229
+		    -229
 Both are close to the same number because even though the confidence level goes up, less animals are needed for sampling. You are looking for a higher prevalence rate, so it is easier to detect.
 
 3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is	
 >1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
+
 -------------------------------------------------------------------------------------------------------
+
+WORKSHEET 3
+
 a) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
 (9 points)   
 	6/12-  0.0980 cases per elk day
@@ -57,9 +64,11 @@ d) On which day is the incidence lowest? (3 points)
 		On 6/15 and 6/16, there are no new cases, and therefore, the incidence is 0 on both days
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+TICK LAB 
 
 Ticks are essential to study and understand due to the various diseases they carry and can transmit to humans. Ticks can latch onto reservoir hosts that are carrying the disease and then transmit it to other hosts, which can be fatal or severe for these hosts. It is essential to investigate how the spread of tick-borne diseases is evolving.
 ----------------------------------------------------------------------------------------------------------------------------------------
+TEST CORRECTIONS
 
 1. 
 a. False, microparasites do have shorter lives, but they DO reproduce within the host 
@@ -74,41 +83,45 @@ d. calculate Reff for measles with 80% vax
 			R0(1-0.8)
 			1.875(0.2)- 0.375
 ----------------------------------------------------------------------------------------------------------------------------
+WORKSHEET 4
+
 1. False, MERS-CoV is mostly found in camels and only in human populations with direct physical contact. 
 2. TRUE
 3. False, some human-human transmission can occur, and while it is not the main transmission, it is not a dead-end because sometimes the illness does transmit to other humans with contact
 4. False, the paragraph states 35% of the cases have died, which would be the case fatality rate. 
 5. False, this curve shows more of a propagated curve and how the disease is transmitted from human to human. 
 --------------------------------------------------------------------------------------------------------------------------------
+
+WORKSHEET 5
+
 The first person to become infected in the current Marburg virus outbreak in Rwanda
 probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit
-bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of
-Marburg virus infection were documented, and most of the people infected were health
+bats that are known to be a reservoir of the Marburg virus. As of 19 December 2024, 66 cases of
+Marburg virus infection was documented, and most of the people infected were healthy
 care workers, mainly those who worked in intensive care units.
-	1. Using the community epidemiology framework developed by Fenton and Pedersen,
-	would you classify this Marburg virus outbreak as a spillover event or an emerging
-	infectious disease? Justify your classification. 5 points
-Spillover because the main reservoir is bats not humans. Most of the cases were probably infected becuase they work in the ICU.
-At the start, it was a normal disease in bats that accidentally spilled over to humans, which is, by definition, spillover. 
 
-	2. What measures could be implemented to reduce the risk of transmission in both
-	community and healthcare settings? 5 points
-Given that the disease is contagious, especially in the healthcare setting, hospitals can isolate patients and require staff to wear protective gear when working with them and to take extra precautions when an individual has the disease or is dealing with someone who has it. Community-wise, staying away from caves known to have bats, or even wearing protective gear, could help prevent further spillover events. 
+1. Using the community epidemiology framework developed by Fenton and Pedersen,
+would you classify this Marburg virus outbreak as a spillover event or an emerging
+infectious disease? Justify your classification. 5 points
+	-Spillover because the main reservoir is bats, not humans. Most of the cases were probably infected because they work in the ICU.
+	At the start, it was a normal disease in bats that accidentally spilled over to humans, which is, by definition, spillover. 
 
-Recommended reading: Marburg Virus Disease in Rwanda – Centering Both Evidence
-and Equity by Cameron T. Nutt (Canvas > Files > Readings)
+2. What measures could be implemented to reduce the risk of transmission in both
+community and healthcare settings? 5 points
+	-Given that the disease is contagious, especially in the healthcare setting, hospitals can isolate patients and require staff to wear 			protective gear when working with them and to take extra precautions when an individual has the disease or is dealing with someone who has 		it. Community-wise, staying away from caves known to have bats, or even wearing protective gear, could help prevent further spillover 			events. 
+
 ----------------------------------------------------------------------------------------------------------------------------------
-Pond 1
-prevalence- 0.300     lower-0.140     upper=0.525 	
+WORKSHEET 6
 
-pond 2
-prev- 0.067     lower=0.003    upper=0.302
+Pond 1: prevalence- 0.300 (lower-0.140, upper=0.525) 	
 
-comparison
-p-value= 0.1987
-p-value is greater than 0.05 so the difference is not statistically significant.
+pond 2: prevalence- 0.067 (lower=0.003, upper=0.302)
+
+comparison: p-value= 0.1987
+p-value is greater than 0.05, so the difference is not statistically significant.
 
 -----------------------------------------------------------------------------------------------------------------------------------
+WORKSHEET 7
 
 Nipah Virus
 Nipah virus ecology varies across regions, resulting in distinct patterns of transmission
