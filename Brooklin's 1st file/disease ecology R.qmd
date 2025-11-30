@@ -4,37 +4,31 @@ author: "Brooklin Burrow"
 format: html
 editor: visual
 ---
-WORKSHEET 1 
+ 
+WORKSHEET 1
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {area <- pi * radius^2 return(area)}
 
-```{r}
-# Function to calculate the area of a circle 
-area_of_circle <- function(radius) {
-  area <-pi * radius^2 
-  return(area)
-  }
-radius <- 5 # from the example 
+radius - 5 # from the example
 circle_area <- area_of_circle(radius)
 cat("The area of the circle with radius", radius, "is", circle_area, "\n")
-```
 
 ![](EpiTriad.png)
-This image of the EpiTriad shows how three things affect the overall prevalence, transmission, and livelihood of diseases. The environment, host, and pathogen must all come together in a way for a disease to thrive. With certain conditions on each level, the disease can change. 
+The Epidemiologic Triad illustrates how the interactions among the host, pathogen, and environment shape disease outcomes. Disease emergence, prevalence, and transmission depend on these three components aligning in ways that support pathogen survival and spread. Changes in any one of these factors can alter disease dynamics.
 
 ----------------------------------------------------------------------------------------------------
 
 WORKSHEET 2
 
-	1. Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%
-			-59
-	2. Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
-	a. 95% confidence in detecting a disease at 1% prevalence in a large population
-			-299
-	b.99% confidence in detecting a disease at 2% prevalence in a large population 
-		    -229
-Both are close to the same number because even though the confidence level goes up, less animals are needed for sampling. You are looking for a higher prevalence rate, so it is easier to detect.
+	1. Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer @95% CONFIDENCE
+			59
 
-3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is	
->1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
+	2. Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+	a. 95% confidence in detecting a disease at 1% prevalence in a large population: 299
+	b.99% confidence in detecting a disease at 2% prevalence in a large population: 229
+	Both are close to the same number because, even as the confidence level increases, fewer animals are needed for sampling. You are looking for a higher prevalence rate, which makes it easier to detect.
+
+	3. You sample 300 deer from a high-fenced facility that has a herd of 300. None of the 4000 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility iS >1% because they sampled the right amount, using the table with 95% confidence, the disease should be less than 1% prevalent
 
 -------------------------------------------------------------------------------------------------------
 
