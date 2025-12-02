@@ -167,49 +167,169 @@ Regional climate and environmental conditions appear to be the primary drivers o
 WORKSHEET 9
 
 Specific human behaviors contributing to the zoonotic spread: 
-1. Human behaviors contributing to the Salmonella spread in the 2024 backyard poultry outbreak
-	Three major behaviors increased zoonotic transmission risk:
-		-Poor hygiene practices (e.g., not washing hands after handling birds or eggs). Salmonella persists on surfaces and easily spreads through indirect contact.There is no regulation on proper channels or cleansing when eggs or poultry are coming straight from the backyard or being sold to the community.
-		-Close, pet-like interactions with poultry, especially by children. Birds may appear healthy while shedding Salmonella, leading to direct transmission.
-		-Transporting contamination into homes via shoes, clothing, equipment, and pets. Backyard poultry owners may unintentionally act as bridge hosts. 
-Broader human-driven ecological factors, such as habitat disruption and increased bird density in urban settings, also intensify transmission risk. Humans disturb the ecosystems where birds live by urbanizing and taking their habitats. Removing habitats from birds can lead to denser bird populations, where Salmonella can spread quickly and easily in their populations. Infected birds' droplets are the main way Salmonella spreads, so putting these birds in an environment where contamination is likely much higher, due to less space to spread out, will lead to the disease spreading at a higher rate. Urbanization as a whole increases interactions and contamination between animals and humans, leading to more infections. 
 
-Many humans are also unaware of the threat bird feeders pose to Salmonella. People who are changing out bird feeders or pets with access to them are exposed to sites where many wild birds have cross-contaminated, which could make it a hotspot for salmonella. Hand hygiene is essential for limiting human contamination of Salmonella. Overall, the public's lack of education and hygiene regarding this topic and ways of contamination leads to further human infections. Backyard poultry owners traveling to other animal environments further spread infection to these animals and could serve as a bridge to other humans. CDC and health officials are trying to educate the public on basic practices such as proper hygiene, not moving items from the coop to other locations, and improving the transfer of germs from the coop to inside the home, especially by kids, but many people are not aware of how this spreads or do not take the time to self regulate when it comes to small backyard flocks.
+Three major behaviors increased zoonotic transmission risk:
+		1. Poor hygiene practices (e.g., not washing hands after handling birds or eggs). Salmonella persists on surfaces and easily spreads through indirect contact. There is no regulation on proper channels or cleansing when eggs or poultry are coming straight from the backyard or being sold to the community.
+		2. Close, pet-like interactions with poultry, especially by children. Birds may appear healthy while shedding Salmonella, leading to direct transmission.
+		3. Transporting contamination into homes via shoes, clothing, equipment, and pets. Backyard poultry owners may unintentionally act as bridge hosts. 
 
-2. Tall fescue grass is commonly infected with a fungal endophyte (Epichloë
-coenophiala) that produces ergot alkaloids associated with fescue toxicosis in
-grazing livestock.
+Broader human-driven ecological factors, such as habitat disruption and increased bird density in urban settings, also intensify transmission risk. Humans disturb the ecosystems where birds live by urbanizing and taking their habitats. Removing habitats from birds can lead to denser populations, where Salmonella can spread quickly and easily. Infected birds' droplets are the main way Salmonella spreads, so putting these birds in an environment where contamination is likely to be much higher, due to less space to spread out, will lead to the disease spreading faster. Urbanization as a whole increases interactions and contamination between animals and humans, leading to more infections. 
+Many humans are also unaware of the threat bird feeders pose to Salmonella. People who are changing out bird feeders or pets with access to them are exposed to sites where many wild birds have cross-contaminated, which could make it a hotspot for salmonella. Hand hygiene is essential for limiting human contamination of Salmonella. Overall, the public's lack of education and hygiene regarding this topic and the ways contamination occurs leads to further human infections. Backyard poultry owners traveling to other animal environments further spread infection to these animals and could serve as a bridge to other humans. CDC and health officials are trying to educate the public on basic practices such as proper hygiene, not moving items from the coop to different locations, and improving the transfer of germs from the coop into the home, especially by kids. Still, many people are not aware of how this spreads or do not take the time to self-regulate when it comes to small backyard flocks.
+
+2. Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
 
 	a. What advantage does Tall fescue gain from being infected with a fungal
        endophyte? 
-		-The grass can grow in conditions where it could not previously grow without the fungal endophyte. It allows the grass to thrive by producing alkaloids that make it more tolerant of its environment, including drought, insects, and poor soil. This allows the grass species to dominate other species around it and persist in many environments. The grass is durable, drought-resistant, easy to establish, regrows quickly, and is suitable for grazing by big herds. This makes the grass tolerant to weather changes. Their relationship is mutualistic; the endophyte enhances root growth and depth, makes them more tolerant to various conditions, and overall makes the plant more durable, which gives a competitive advantage.   
+		-The grass can grow in conditions where it could not previously grow without the fungal endophyte. It allows the grass to thrive by producing alkaloids that make it more tolerant of its environment, including drought, insects, and poor soil. This allows the grass species to dominate other species around it and persist in many environments. The grass is durable, drought-resistant, easy to establish, regrows quickly, and is suitable for grazing by big herds. This makes the grass tolerant to weather changes. Their relationship is mutualistic; the endophyte enhances root growth and depth, increases tolerance to various conditions, and makes the plant more durable, giving it a competitive advantage.   
 
 	b. What environmental and ecological factors drive the occurrence and severity of
        Fescue toxicosis in grazing systems? 
-		-The climate and environment affect the prevalence of this toxicosis; high temperatures and drought stress increase alkoid production. Drought causes fewer nutrients in the soil, so alkaloids are produced to be protective. Soil fertility and microbial communities affect endophyte expression. Overgrazing affects toxin accumulation and disease risk. The cows eat the part of the plant that is most dense with the toxicity because of the over-grazing. If the grass type is dominant in the pasture, this also does not allow for grazing systems to eat anything other than this grass. Soil fertility and moisture levels can also increase the toxin levels, especially if conditions make it easier for the grass to overdominate the pasture. Soil makeup can also feed toxic alkaloids, depending on whether the soil is rich in nitrogen or other components the alkaloids feed on. The soil microbiome shows a correlation with the severity of toxicosis. The toxicity impairs cattle's ability to regulate their temperature, and warmer conditions exacerbate this, while alkoid concentrations are higher in the grass in warmer environments. The toxicity impairs the cattle's heat regulation, and therefore, in warmer weather, the cattle are already struggling to dissipate heat, but now the toxicosis makes this even more difficult. Climate conditions (heat, drought, season change) can lead to plant changes (nutrient stress, no moisture) which can lead to more endophytes produced in the grass which can lead to alkoloid concentrations increasing which leads to more cattle eating the toxicity and then you can see livestock outcome conditions exasterbated by the climate as well; it is all a chain of events.
+		-High temperatures and drought stress increase alkaloid production. Drought reduces soil nutrient levels, so alkaloids are produced as a protective mechanism. Soil fertility and microbial communities affect endophyte expression. Overgrazing affects toxin accumulation and disease risk. The cows eat the part of the plant that is most dense in toxins because of overgrazing. If the grass type is dominant in the pasture, it also prevents grazing systems from eating anything other than this grass. Soil fertility and moisture levels can also increase the toxin levels, especially if conditions make it easier for the grass to overdominate the pasture. Soil makeup can also feed toxic alkaloids, depending on whether the soil is rich in nitrogen or other components the alkaloids feed on. The soil microbiome shows a correlation with the severity of toxicosis. The toxicity impairs cattle's ability to regulate their temperature, and warmer conditions exacerbate this, while alkoid concentrations are higher in the grass in warmer environments. The toxicity impairs the cattle's heat regulation, so in warmer weather, they are already struggling to dissipate heat; now, the toxicosis makes this even more difficult. Climate conditions (heat, drought, season change) can lead to plant changes (nutrient stress, no moisture) which can lead to more endophytes produced in the grass which can lead to alkoloid concentrations increasing which leads to more cattle eating the toxicity and then you can see livestock outcome conditions exasterbated by the climate as well; it is all a chain of events.
 
-	c. What are the key clinical signs of fescue toxicity in cattle? 
-		-Cattle look malnourished and experience weight loss, rough and discolored hair coats, along with poor performance. Clincal signs can present as fever, lethargy, swelling, and coat abnormalities. As the temperature rises, the cattle have more problems trying to dissipate heat and may show signs such as seeking shade or excessive water intake. Metabolism is affected, resulting in weight loss. Cows present as eating less because their metabolism is affected and not functioning normally. Lipid and carbohydrate metabolism are reduced, which will affect eating patterns. Immune function is also affected, and cows are at higher risk of contracting illnesses that could be fatal.
+	c. Key clinical signs 
+		-Cattle look malnourished, with weight loss, rough and discolored hair coats, and poor performance. Clinical signs: fever, lethargy, swelling, and coat abnormalities. Cattle have more difficulty dissipating heat in hot climates and may show signs such as seeking shade or increased water intake. Cows eat less because their metabolism is affected. Lipid and carbohydrate metabolism are reduced, which will affect eating patterns. Immune function is also affected, and cows are at higher risk of contracting illnesses that could be fatal.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 WORKSHEET 10
 
-1. What are the different routes of transmission for African Swine fever? What role do
-humans play in the spread and transmission of ASF? 
+1. What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF? 
 
--African Swine fever can be transmitted through vectors (tick bites); these ticks persist for long periods of time, making ASF very hard to eradicate. Secondly, it can be transmitted through direct contact with an infected pig through blood, saliva, or feces, and through indirect contact by contaminated sources such as feed, trucks transporting infected feed or pigs, or on equipment or clothing. Swill feeding is a risk because much of the feed can be contaminated with pork products that can easily infect the whole pig population. Many farmers use this feeding process, which contributes to the spread of ASF because of the heightened risk. Also, through environmental persistence, ASF survives for months on carcasses and various pork products, allowing for easier transmission when humans are transporting pork products and pigs across borders. Pork products are transported to many locations far apart, allowing the virus to spread widely. There is also an illegal trade of pork products that can be very dangerous for humans handling or consuming the products, and easily transfers to other pig populations. Humans can act as mechanical vectors by traveling to and from farms and moving the ASF with them, infecting countless pig populations. Many farms also do not detect the disease until it is too late, and it spreads to other pigs or farms. The financial struggles and testing for this disease are overlooked. The detection of ASF can cause large economic loss, so the struggle there is not wanting to test because it can only result in loss of money for many farmers if positive. Humans play a role by transferring infected meat, like in the illegal pork trade. Humans also serve as vectors, transmitting the infection from farm to farm through clothing, vehicles, or equipment. Humans do not themselves become infected, but they serve as bridge hosts for multiple animal populations. Biosecurity is a huge challenge when looking at the human role in the spread of this virus due to the mass transport and traveling humans are involved in in the farm and pig industry 
+-ASF transmits through vectors (tick bites), direct contact with an infected pig, and indirect contact via contaminated sources such as feed, trucks transporting infected feed or pigs, or equipment or clothing. Swill feeding is a risk because much of the feed can be contaminated with pork products that can easily infect the whole pig population. Many farmers use this feeding practice, which contributes to the spread of ASF due to the heightened risk. Also, through environmental persistence, ASF can survive for months on carcasses and various pork products, facilitating easier transmission when humans transport pork products and pigs across borders. Pork products are transported to many locations far apart, allowing the virus to spread widely. There is also an illegal trade of pork products that can be very dangerous for humans handling or consuming the products, and easily transfers to other pig populations. Humans can act as mechanical vectors by traveling to and from farms and moving the ASF with them, infecting countless pig populations. Many farms also do not detect the disease until it is too late, and it spreads to other pigs or farms. The financial struggles and testing for this disease are overlooked. The detection of ASF can cause considerable economic losses, so the battle there is not worth testing, as it could only result in financial losses for many farmers if positive. Humans play a role by transferring infected meat, like in the illegal pork trade. Humans also serve as vectors, transmitting the infection from farm to farm through clothing, vehicles, or equipment. Humans do not themselves become infected, but they serve as bridge hosts for multiple animal populations. Biosecurity is a considerable challenge when looking at the human role in the spread of this virus due to the mass transport and traveling humans are involved in in the farm and pig industry 
 
 2. Describe how co-infection with Koala retrovirus (KoRV) affects the severity,
 progression, and management of Chlamydia in koalas.
 
-KoRV infection causes immunity suppression and is correlated with a higher prevalence of chlamydia infections. When immunity is suppressed by this virus, it is easier for chlamydia to infect the koala because there is less immune defense. The virus brings down the immunity of koalas and can make chlamydia more severe when contracted by a koala, leading to higher mortality rates. When koalas contract KoRV, symptoms are worse with chlamydia, and the bacterial load is greater. It causes greater overall disease severity and prevalence because koalas are more susceptible when they are also infected with KoRV. The body is not able to fight off the disease because of immunosuppression, which allows chlamydia to have rapid progression. This makes it harder to treat due to the wild population and immunosuppression caused by KoRV. This also leads to lower fertility rates and reduced reproduction, affecting the overall population and the environment around them. Coinfection of KoRV and chlamydia leads to more bacteria in the animal, which would need more antibiotic treatments, and this is not good for the koalas because it kills the good bacteria in their gut that they need to break down their food source. The immune system is fighting off two viruses, so the symptoms of chlamydia are worsened, and the koala can experience worse vision loss, wet bottom, and other complications with treatments and relapses of the virus.
+-KoRV infection causes immunity suppression and is correlated with a higher prevalence of chlamydia infections. When this virus suppresses immunity, it is easier for chlamydia to infect koalas because their immune defenses are weakened. The virus brings down the immunity of koalas and can make chlamydia more severe when contracted by a koala, leading to higher mortality rates. When koalas contract KoRV, symptoms are worse with chlamydia, and the bacterial load is greater. It causes greater overall disease severity and prevalence because koalas are more susceptible when they are also infected with KoRV. The body is not able to fight off the disease because of immunosuppression, which allows chlamydia to have rapid progression. This makes it harder to treat due to the wild population and immunosuppression caused by KoRV. This also leads to lower fertility rates and reduced reproduction, affecting the overall population and the environment. Coinfection with KoRV and chlamydia leads to increased bacterial loads in the animal, which require more antibiotic treatments, and this is not good for koalas because it kills the good bacteria in their gut that help break down their food. The immune system is fighting off two viruses, so the symptoms of chlamydia are worsened, and the koala can experience worse vision loss, wet bottom, and other complications with treatments and relapses of the virus.
 
 3. Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America.
 What are the key challenges associated with the surveillance and management of Snake Fungal Disease? 
 
--SFD is usually asymptomatic within the first month or two, so it spreads before it can be diagnosed; this makes it especially difficult during brumation because the snakes are dormant and the disease can spread without being noticed at all. Fungal spores are also very persistent and can persist in moist soil for long periods, potentially infecting multiple snakes. Snakes are often less closely monitored than other species, and diseases can go undetected and spread more easily across the species. Outbreaks are hard to stop because the prevalence of the disease is noticed too late and has already spread among the snakes. Due to the lack of research, scientists are still not certain about the dynamics behind transmission, so it is hard to stop the spread because the exact modes of transmission are not fully understood. There is also not much research on this species or the disease in particular. Many of the tests yield false negatives and are not very reliable, so it is a tough disease to contain and treat actual positive snakes. Overall, there is really not enough funding that goes into studying or caring for these snakes, so SFD becomes very hard to understand and therefore manage, and has inadequate surveillance. The treatments that are available are only somewhat practical even for domestic snakes, so there are no practical treatments or medications that wild snakes can receive. No treatment is easy to mass distribute to wild snake populations because it is a hands-on procedure to help with the symptoms. The treatments require repetitive cleansing and treating, so for a wild snake, this is not practical at all.  
+-SFD is usually asymptomatic within the first month or two, so it spreads before it can be diagnosed; this makes it especially difficult during brumation because the snakes are dormant and the disease can spread without being noticed at all. Fungal spores are also very persistent and can persist in moist soil for long periods, potentially infecting multiple snakes. Snakes are often less closely monitored than other species, and diseases can go undetected and spread more easily among them. Outbreaks are hard to stop because the disease's prevalence is recognized too late, and it has already spread among the snakes. Due to limited research, scientists are still unsure about the dynamics of transmission, making it hard to stop the spread because the exact modes of transmission are not fully understood. There is also not much research on this species or the disease in particular. Many of the tests yield false negatives and are not very reliable, so it is a tough disease to contain and treat actual positive snakes. Overall, there is not enough funding for studying or caring for these snakes, so SFD becomes very hard to understand and manage, and surveillance is inadequate. The treatments available are only somewhat effective even for domestic snakes, so there are no practical treatments or medications that wild snakes can receive. No treatment is easy to mass-distribute to wild snake populations, as it is a hands-on procedure to address symptoms. The treatments require repetitive cleansing and treating, so for a wild snake, this is not practical at all.  
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+1. 
+a.False- The inbetween species transmission is low to sustain the pathogen, but does not have to be zero
+the between species is also low
+
+b.false- contagious requires direct contact and does not mean that it is always infectious 
+
+c.True 
+
+d.TRUE
+
+e. TRUE
+
+2. straws- nets- education- 
+
+3. 
+failure to seperate live farmed and free ranging deer 
+transfer by cehicles 
+disposal of carcasses innapropriate 
+high deer density 
+animal aggregatiion- natural or man mediated 
+environmental perssitnece of prions 
+
+NON CONTAGIOUS ATYPICAL CWD- 
+ONLY KNOWN PRION DISEASE IN WILDLIFE - EFFICIENT HORIZONTAL TRANSMISSION
+	DIRECT ANIMAL TO ANIMAL 
+INDIRECT: PERSIST IN ENVIRONMENT 
+Incubation period- more than 16 monmths 
+
+	Natural movements of free-ranging cervids
+Translocations of cervids
+Escape of infected cervids from captive facilities
+Transport of infected carcasses/ animal parts
+Infected animal products (urine, saliva, feces)
+Baiting, supplemental feeding, feeder
+
+	NO VAX/ TREAT 
+	LIMITED TOOLS TO CONTROL SPREAD 
+	INFECTED DIFF TO DETECT 
+	EARLY PHASE- HARD TO DETECT 
+	ASYMPTOMATIC TRANSMISSON- DIRECT AND INDIRECT 
+	BY THE TIME DETECTED-ALREADY SPREAD THRU POP. 
+HARD TO IMPLEMENT STRATEGIES 
+
+SO many factors contribute to the spread and persistence 
+
+5. 
+a.franscisella tularensis - 
+
+subspecies holartica causes beaver infections 
+
+b.
+vector borne- tick  and deer fly bites 
+direct- handling infected animals 
+inhalation- lawnmowers can spread in this way 
+	contaminated dust or air particles
+ingestion- drining or eating - causes bump on neck 
+
+c. can be used as a bio weapon, japan used it in war 
+it is classified as category A bioterrorism agent 
+	highly infectous 
+	aerosol spread potential 
+no reports of being spread person to person 
+humans-cat- dog = dead end host 
+
+6.
+Bells palsy- 3. borellia burgdorfei (lyme)
+e-3 
+b-4 
+
+c-1
+a
+d
+
+7
+a.nymphs and adults 
+b. small mammamal (white-footed mouse) / dilution hosts (squirrels, lizards) 
+c. may-july/ october- december 
+d. white footed mouse/ prefered(common) host 
+
+8. the downside of using hypergeometric distribution - only works if random and probalistic sampling process
+
+
+9. 
+A. sars-cov
+		quadrant: top left 
+			cross-species infection w/low btwn-species transmission- high w/in H2 transmission rate - potential EID/ persistent - 
+	
+
+b. HPV
+	
+c.Langya
+	no large outbreak - or human-human transmission
+	limited spillover 
+	rare transmission
+	isolated spillovers 
+	no clustering 
+	shrews- continous trasnmission 
+d.Brucellosis 
+e. WNV
+	bottom left 
+	cross species infection with low between-species transmission and low w/in H2 transmission in humans -
+	non perssistent 
+	low expose/sucesptibility 
+
+
+10.
+humans- dead end host 
+paratenic host-
+	accidental/holding place/ larval stage survives no durther develop- not necessary 
+	bridge btwn intermediate and definitive 
+intermediate host-crustaceans  
+definitive host- dolphins/ seafish
+	parasite reproduces 
+11.
+12. 60%
+13. 
+The main challenges in managing wildflife diseases start with the fact that these populations are wild. They are harder to treat, harder to research, harder to maintain the spread 
+(migrations, uncontrollable factors) 
+
+cost efficiency 
+
+models do not always work with each animal population 
+not representing reality 
 
