@@ -210,123 +210,109 @@ What are the key challenges associated with the surveillance and management of S
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 1. 
-a. False- The in-between species transmission is low to sustain the pathogen, but there is still some within-species transmission; otherwise, these species would be dead-end hosts. High between-species transmission would also be lower because a high spillover rate could likely lead to an outbreak; instead, each spillover is independent and more spread out. 
+	a. False- The in-between species transmission is low to sustain the pathogen, but there is still some within-species transmission; otherwise, these species would be dead-end hosts. High between-species transmission would also be lower because a high spillover rate could likely lead to an outbreak; instead, each spillover is independent and more spread out. 
 
-b. False- contagious requires direct contact transmission, but it can be infectious only by vectors still. 
+	b. False- contagious requires direct contact transmission, but it can be infectious only by vectors still. 
 
-c. False - eggs must be in the external environment for 2-4 weeks before becoming infective 
+	c. False - eggs must be in the external environment for 2-4 weeks before becoming infective 
 
-d. TRUE
+	d. TRUE
 
-e. TRUE
+	e. TRUE
 
 2. 
-a. straws- straws are being created and distributed to these populations to stop the ingestion of these water fleas, stopping the step to them maturing in the small intestine and spreading further to other hosts.
-b. Wells- building separate wells, for drinking purposes only, where dogs or humans are not sticking extremities into, to stop the beginning of the cycle where the worms are depositing the eggs and spreading them to the people drinking out of the same water.
-c. treating the water with chemicals- kills the intermediate host, stopping the ingestion of the water fleas with the larvae.
-d. surveillance and education- catching the cases before they can further be spread is only possible with adequate surveillance, and educating these populations to not get into drinking water sources if their limb is burning, but instead put it in an isolated bucket, bandage the wound, and only drink out of trusted sources of water. 
+	a. straws- straws are being created and distributed to these populations to stop the ingestion of these water fleas, stopping the step to them maturing in the small intestine and spreading further to other hosts.
+	b. Wells- building separate wells, for drinking purposes only, where dogs or humans are not sticking extremities into, to stop the beginning of the cycle where the worms are depositing the eggs and spreading them to the people drinking out of the same water.
+	c. treating the water with chemicals- kills the intermediate host, stopping the ingestion of the water fleas with the larvae.
+	d. surveillance and education- catching the cases before they can further be spread is only possible with adequate surveillance, and educating these populations to not get into drinking water sources if their limb is burning, but instead put it in an isolated bucket, bandage the wound, and only drink out of trusted sources of water. 
 
-Following recent dog infections, fish were identified as the likely source of infection, and dogs were tethered and unable to reach the drinking water source. Some tethered specific water sources to prevent animal access, and surveillance of not just humans but also animals was increased to catch cases before they spread further. 
+	Following recent dog infections, fish were identified as the likely source of infection, and dogs were tethered and unable to reach the drinking water source. Some tethered around specific water sources to prevent animal access, and surveillance of not just humans but also animals was increased to catch cases before they spread further. 
 
 
 3.
-CWD is hard to eradicate and control because the prions persist in the environment for long periods of time, which causes several indirect transmissions. CWD can also spread through direct contact with infected animals, so both sources must be eliminated to eradicate the disease. The animals that do spread this disease are asymptomatic for 16 months, allowing CWD to spread before they can be diagnosed and contained. By the time the disease is detected in one host, the disease has already spread to many other surfaces in the environment and infected multiple hosts. There is also no vaccination or treatment, which puts more weight on the surveillance and containment of infected populations. Even when signs are seen there is no effective testing to ensure these deers are infected and should be eradicated. The migration patterns and spread of these deer allow the pathogen to spread in a wide area, making containment difficult. Humans also contribute to the spread with bad disposal or movement of the carcases, allowing the prions to stay and move wherever the vehicle goes, along with the carcass. The array of different human, environmental, and biological factors contributing to the spread of this disease makes it very difficult to contain. 
+	CWD is hard to eradicate and control because the prions persist in the environment for long periods of time, which causes several indirect transmissions. CWD can also spread through direct contact with infected animals, so both sources must be eliminated to eradicate the disease. The animals that do spread this disease are asymptomatic for 16 months, allowing CWD to spread before they can be diagnosed and contained. By the time the disease is detected in one host, the disease has already spread to many other surfaces in the environment and infected multiple hosts. There is also no vaccination or treatment, which puts more weight on the surveillance and containment of infected populations. Even when signs are seen, there is no effective testing to ensure these deer are infected and should be eradicated. The migration patterns and spread of these deer allow the pathogen to spread in a wide area, making containment difficult. Humans also contribute to the spread with bad disposal or movement of the carcases, allowing the prions to stay and move wherever the vehicle goes, along with the carcass. The array of different human, environmental, and biological factors contributing to the spread of this disease makes it very difficult to contain. 
 
 4.
-MONTHLY INCIDENCE: 
-MARCH - 3/60- 0.05 armadillo cases per month 
-APRIL - 2/57- 3.51 armadillo cases per month 
-MAY - 0/55- 0 armadillo cases per month
-JUNE - 3/55- 5.45 armadillo cases per month 
-JULY - 5/32- 9.62 armadillo cases per month 
+	MONTHLY INCIDENCE: 
+		MARCH - 3/60- 0.05 armadillo cases per month 
+		APRIL - 2/57- 3.51 armadillo cases per month 
+		MAY - 0/55- 0 armadillo cases per month
+		JUNE - 3/55- 5.45 armadillo cases per month 
+		JULY - 5/32- 9.62 armadillo cases per month 
 
-PREVALENCE: 
-MARCH - 3/60- 5.0% (lowest) 
-APRIL - 5/60- 8.33%
-MAY - 5/60 -8.33%
-JUNE - 8/60- 13.33%
-JULY - 13/60- 21.67%  (highest)
+	PREVALENCE: 
+		MARCH - 3/60- 5.0% armadillo cases (lowest) 
+		APRIL - 5/60- 8.33% armadillo cases 
+		MAY - 5/60 -8.33% armadillo cases 
+		JUNE - 8/60- 13.33% armadillo cases 
+		JULY - 13/60- 21.67% armadillo cases per 100 (highest)
 
 
 5. 
-a. franscisella tularensis - 
-Subspecies holartica causes beaver infections 
+	a. Francisella tularensis - Subspecies holartica causes beaver infections 
 
-b.	1. vector-borne- tick  and deer fly bites 
-	2. direct- handling infected animals 
-	3. Inhalation- lawnmowers can spread in this way, or contaminated dust or air particles
-	4. ingestion- drinking or eating - causes a bump on the neck in some cases 
+	b.	1. vector-borne- tick  and deer fly bites 
+		2. direct- handling infected animals 
+		3. Inhalation- lawnmowers can spread in this way, or contaminated dust or air particles
+		4. ingestion- drinking or eating - causes a bump on the neck in some cases 
 
-c. It can be used as a bio weapon; Japan used it in war. It is classified as a category A bioterrorism agent and is highly infectious. It persists in the environment and on carcasses and has aerosol-spread potential. There are no reports of being spread person to person, but it causes multiple diseases when contracted by humans and poses a serious threat to humans. 
+	c. It can be used as a bio weapon; Japan used it in war. It is classified as a category A bioterrorism agent and is highly infectious. It persists in the environment and on carcasses and has aerosol-spread potential. There are no reports of being spread person to person, but it causes multiple diseases when contracted by humans and poses a serious threat to humans. 
 
 6.
-e - 3. Borrelia burgdorferi (lyme) 
-b - 4. Aetokthonotoxin  
-c - 1. Powassan encephalitis 
-a - 5. Pseudogymnoascus destructans
-d - 6. African Swine Fever 
+	a - 5. Pseudogymnoascus destructans
+	b - 4. Aetokthonotoxin  
+	c - 1. Powassan encephalitis 
+	d - 6. African Swine Fever 
+	e - 3. Borrelia burgdorferi (lyme) 
 
 7.
-a. nymphs and adults 
-b. small mammal (white-footed mouse) / dilution hosts (squirrels, lizards, birds) 
-c. May-July / October-December 
-d. white footed mouse/ reproductive (preferred common) host 
+	a. nymphs and adults 
+	b. small mammal (white-footed mouse) / dilution hosts (squirrels, lizards, birds) 
+	c. May-July / October-December 
+	d. white footed mouse/ reproductive (preferred common) host 
 
 8. 
-The downside of using the hypergeometric distribution is that it only truly works if the random and probabilistic sampling process is used. The system assumes that samples were attained randomly, with accurate cases and no clustering of the disease. Since all samples are from hunters, this could easily be a clustered sample from good hunting spots and certain regions. The actual population is likely missed because many areas where deer live are not accessible or reasonable hunting grounds. If the disease is localized to a certain source point, the majority of cases could be missed, and prevalence could inaccurately be projected to be much lower. The disease could be clustered in a different region than where the samples are coming from. The 0.2% prevalence is likely estimated much lower than the true prevalence, and assumptions must be accurately met to try and use hypergeometric distribution methods. 
+	The downside of using the hypergeometric distribution is that it only truly works if the random and probabilistic sampling process is used. The system assumes that samples were attained randomly, with accurate cases and no clustering of the disease. Since all samples are from hunters, this could easily be a clustered sample from good hunting spots and certain regions. The actual population is likely missed because many areas where deer live are not accessible or reasonable hunting grounds. If the disease is localized to a certain source point, the majority of cases could be missed, and prevalence could inaccurately be projected to be much lower. The disease could be clustered in a different region than where the samples are coming from. The 0.2% prevalence is likely estimated much lower than the true prevalence, and assumptions must be accurately met to try to use hypergeometric distribution methods. CWD cases are often clustered, especially at the beginning, and the majority of cases can easily be missed with this style of sampling. There are also not enough deer being sampled. At a population of 1 million and 0.2% prevalence, at least 2,000 should have been sampled randomly to even be within 90% confidence. With CWD, close to 4,000 would be safer, to be more confident, because it is very hard to contain with two routes of transmission and the persistence of the pathogen. 
 
 
 9. 
-A. sars-cov
-		quadrant: top left 
-		Within-species transmission is high; human-human transmission is most common with this pathogen; between-species transmission is low, present but low. 
+	a. Sars-cov-2 
+		quadrant: top right (True Multihost Pathogen)
+		There is high transmission within the same species and between species. The outbreak has not been controlled, and there are still cases. There were original spillover cases, but these sustained in the human population and still spread throughout humans. It is global, and maintained infections are still in multiple host species. Therefore, it is a true multihost pathogen with sustained transmission in humans and other host species. 
 	
-b. HPS
-	quadrant: bottom right 
-	Sporadic/emerging 
-	rare- severe- rodents - not sustained in humans and transmission between them 
+	b. HPS
+		quadrant: bottom left (spillover) 
+		The main species affected by this disease are rodents, but humans can become infected through spillover from environmental exposure. Humans do not infect other humans, however, and the rate at which rats infect humans is very low. Cases are sporadic, and human cases are rare. It is not sustained in human populations, and cases are isolated accidental infections. 
 	
-	
-c.Langya
-	quadrant: bottom left 
-	Shrews due spread the disease between their own species but not at too high of a rate, and the spread to other species is almost non-existent 
+	c. Langya
+		quadrant: top left (Potential EID) 
+		Langya is a new emerging pathogen that was discovered, and the main and only reservoir with sustained transmission is shrews. There is growing concern, however, that this could spread to humans and be a new outbreak. There is no documented human-human transmission, but the pathogen could evolve. 
 
-Emerging 
-	no large outbreak - or human-human transmission
-	limited spillover 
-	rare transmission- uncertain 
-	isolated spillovers 
-	no clustering 
-	shrews- continous trasnmission 
+	d. Brucellosis 
+		quadrant: top right (True Multihost Pathogen)
+		It is a zoonotic disease that has high between-species transmission, and there are many cases in which animals have spread this disease to humans. It is an established zoonotic disease that persists in cows, pigs, wildlife species, and sometimes humans. Humans are dead hosts, but they do become infected and diseased. Cycles between species and transmission within them are very complex and vary by species. 
 
-d.Brucellosis
-	quadrant: top right 
-	It is a zoonotic disease that has high between-species transmission, and there are many cases in which animals have spread this disease to humans. Also, within herds, the pathogen can spread to the entire herd if one animal is infected, so within-species transmission is also high. It is an established zoonotic disease that persists in animals and humans.
-
-e. WNV
-	quadrant: bottom left 
-	WNV has a low between-species rate, and in most cases, human infection is due to spillovers. The within-species rate is also not considerably high. 
-
-	endemic- re emerging  
-	cross species infection with low between-species transmission and low w/in H2 transmission in humans -
-	non perssistent 
-	low expose/sucesptibility 
-
+	e. WNV
+		quadrant: bottom left (Spillover)
+		WNV has a low interspecies transmission rate, and in most cases, human infection results from spillover, and they are dead-end hosts. The within-species rate is also not considerably high. This virus is sustained in bird populations, and human cases are isolated spillovers that do not spread further. It is not persistent in the human population.  
 
 10.
-dead-end host - humans 
-	A parasite does not mature or spread any further when it infects a human, and they are infected accidentally. 
-paratenic host- Seafish 
-	The larval stage survives but does not further develop
-	They can act as a bridge between intermediate and definitive when dolphins eat an infected seafish. 
-intermediate host-crustaceans  
-	Eggs are ingested by these hosts and mature into a more mature phase.
-definitive host- dolphins
-	The parasite reproduces in these hosts and is shed through the eggs laid. 
+	dead-end host - HUMANS 
+		A parasite does not mature or spread further when it infects a human, and the infection occurs accidentally. 
+	paratenic host- SEAFISH
+		The larval stage survives but does not further develop. They can act as a bridge between intermediate and definitive when dolphins eat an infected seafish. 
+	intermediate host- CRUSTACEANS  
+		Eggs are ingested by these hosts and mature into a more mature phase, but do not reproduce.
+	definitive host- DOLPHINS
+		The parasite reproduces in these hosts and is shed through the eggs laid. 
 
-11. Infected does not always mean diseased. Infected but not diseased is possible, and white tail deer is a prime example. White-tailed deer can be reservoir hosts that become infected but not diseased and spread the disease through an intermediate host, such as ticks. A host must be infected to become diseased, and infection can lead to disease, but not in every case. Infection does not, however, mean contagious, but transmission can occur from infected hosts and cause more disease. SARS-CoV-2 is another example of an illness that, while it can cause illness, not every infection results in clinical signs showing. Using the antelopes as an example, they were infected with the pathogen for some time but never showed clinical signs until the environment changed and the pathogen dynamics changed with it. This is a key factor in the transmission of diseases because the spread of many diseases is harder to contain when hosts who have not been diagnosed or contained spread the virus. 
+11.
+	Infected does not always mean diseased. Infected but not diseased is possible, and white tail deer is a prime example. White-tailed deer can be reservoir hosts that become infected but not diseased and spread the disease through an intermediate host, such as ticks. A host must be infected to become diseased, and infection can lead to disease, but not in every case. Infection does not, however, mean contagious, but transmission can occur from infected hosts and cause more disease. SARS-CoV-2 is another example of an illness that, while it can cause illness, not every infection results in clinical signs showing. Using the antelopes as an example, they were infected with the pathogen for some time but never showed clinical signs until the environment changed and the pathogen dynamics changed with it. This is a key factor in the transmission of diseases because the spread of many diseases is harder to contain when hosts who have not been diagnosed or contained spread the virus. 
 
-12. 60% would need to be vaccinated 
+12. 
+	60% would need to be vaccinated 
+	1-(1/2.5)
+
 13. 
-The main challenges in managing wildlife diseases stem from the fact that these populations are wild and not handled in the same ways as domesticated animals are. They are harder to treat, harder to research, and harder to contain and detect cases. The complexity of wildlife diseases is also very troubling. In Saiga antelopes, the disease did not manifest until the appropriate environment was introduced. This is why the epidemiology triad is so importan,t because a disease must be approached from all angles. The pathogen had infected the host, but until the stressful birthing season and the hot environment were present, the disease did not actually occur. Even when scientists figured out what caused the mass mortality event due to these factors coming together and causing the disease, there was no real solution. Humans can not stop migration patterns or weather, so the only solution for many wildlife diseases is to maintain and control the confounding factors that contribute to endangerment. For these antelopes, poaching policies or education about them could be a start, but vaccination and treatment are never efficient solutions for wild animals. Snake fungal disease is also a good example of how disease complexity, lack of control, and limited funds contribute to how easily these diseases spread. The incubation period and lack of surveillance for this disease in snakes allow it to spread during brumation or dormancy periods before it can be detected. Many pathogens are highly persistent in the environment, and due to limited research, many wildlife diseases lack resources to understand their transmission dynamics, and ways to eradicate them have not been studied enough. When treatments are found or solutions to limit human-to-human spread are developed, they sometimes become the biggest problem. Humans contribute to the spread of many pathogens, such as Salmonella, and backyard poultry farmers sometimes lack proper education on disease transmission or refuse to comply with scientists' solutions. Many treatments are also not easy to mass-distribute to animals, and many require multiple treatments and surveillance that wild animals don't have access to. There is no single good model or way to treat each disease because each has different components, solutions, confounding factors, and there is not enough surveillance, funding, and research to support proper management. 
+	The main challenges in managing wildlife diseases stem from the fact that these populations are wild and not handled in the same ways as domesticated animals are. They are harder to treat, harder to research, and harder to contain and detect cases. The complexity of wildlife diseases is also very troubling. In Saiga antelopes, the disease did not manifest until the appropriate environment was introduced. This is why the epidemiology triad is so important, because a disease must be approached from all angles. The pathogen had infected the host, but until the stressful birthing season and the hot environment were present, the disease did not actually occur. Even when scientists figured out what caused the mass mortality event due to these factors coming together and causing the disease, there was no real solution. Humans can not stop migration patterns or weather, so the only solution for many wildlife diseases is to maintain and control the confounding factors that contribute to endangerment. For these antelopes, poaching policies or education about them could be a start, but vaccination and treatment are usually not efficient solutions for wild animals. Snake fungal disease is also a good example of how disease complexity, lack of control, and limited funds contribute to how easily these diseases spread. The incubation period and lack of surveillance for this disease in snakes allow it to spread during brumation or dormancy periods before it can be detected. Many pathogens are highly persistent in the environment, and due to limited research, many wildlife diseases lack resources to understand their transmission dynamics, and ways to eradicate them have not been studied enough. When treatments are found or solutions to limit human-to-human spread are developed, they sometimes become the biggest problem. Humans contribute to the spread of many pathogens, such as Salmonella, and backyard poultry farmers sometimes lack proper education on disease transmission or refuse to comply with scientists' solutions. Many treatments are also not easy to mass-distribute to animals, and many require multiple treatments and surveillance that wild animals don't have access to. There is no single good model or way to treat each disease because each has different components, solutions, confounding factors, and there is not enough surveillance, funding, and research to support proper management. 
 
